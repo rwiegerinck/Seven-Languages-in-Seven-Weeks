@@ -1,0 +1,13 @@
+//vind alle boeken van author genaamd 11 (authors zijn cijfers, boeken zijn nummers)
+wrote(11, What).
+	What = aa ? a
+
+	What = bb
+
+
+//Vind alle muziekanten die gitaar spelen
+musician(Who, gitaar).
+
+	Who = dummy1 ? a
+
+	Who = dummy4

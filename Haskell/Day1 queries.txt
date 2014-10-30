@@ -1,0 +1,11 @@
+allEven1 [1,2,3,4,5,6]
+allEven2 [1,2,3,4,5,6]
+
+reverseThisList[1,2,3,4,5,6]
+
+getCombinations(colors)
+
+//de 10 doet niets, geen idee hoe een functie te maken zonder parameters
+getChildhoodTable 10
+
+colorTheMap

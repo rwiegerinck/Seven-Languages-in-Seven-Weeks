@@ -1,0 +1,14 @@
+//reverse een list
+rev([1,2,3,4], L).
+
+L = [4,3,2,1] ?
+
+//vind kleinste element van een list
+smallest([4, 2, 1], L).
+
+L = 1 ? 
+
+//sorteer een lijst
+sortperm([5,2,3,1], L).
+
+L = [1,2,3,5] ?
